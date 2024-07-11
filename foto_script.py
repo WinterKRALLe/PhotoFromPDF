@@ -152,8 +152,8 @@ def process_pdf_directory(input_directory, output_directory):
 
 
 # Define input and output directories
-input_directory = "/home/winter/foto/root-fame/pdfs"
-output_directory = "/home/winter/foto/root-fame/pdfs-output"
+input_directory = "/mnt/nas/foto/sken-in"
+output_directory = "/mnt/nas/foto/sken-out"
 
 
 # Process the PDFs in the input directory
